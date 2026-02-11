@@ -1,7 +1,3 @@
--=(TankBattalion_Senhor notes)=-
-
-Tested: Working Video 720p, 1080p & Sound.
-
 ---------------------------------------------------------------------------------
 -- 
 -- Arcade version of Tank Battalion for MiSTer from Namco - MiSTerRetroWolf
